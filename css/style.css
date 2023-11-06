@@ -1,0 +1,33 @@
+body {
+    background: #F9F9FA !important;
+}
+
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.form-container-control {
+    width: 37%;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border: rgba(0, 0, 0, 0.171) 1px solid;
+    border-radius: 10px;
+}
+
+.form-container-control input {
+    width: 85%;
+}
+
+.containerTitle {
+    font-size: 25px;
+    margin-top: 5%;
+}
+
+.containerForm {
+    background: #f1f1f1 !important;
+    padding: 10px;
+    border-radius: 5px;
+}
